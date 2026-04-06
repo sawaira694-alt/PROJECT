@@ -1,0 +1,16 @@
+/* Basic styling */
+body {
+  background-color: #f4f4f4;
+  font-family: Arial, sans-serif;
+}
+
+/* Center a box */
+.box {
+  width: 200px;
+  padding: 20px;
+  margin: 50px auto;
+  background-color: #3498db;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+}
